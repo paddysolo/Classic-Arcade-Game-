@@ -5,7 +5,7 @@ this project highly depends on the Object oriented concept of javascript to impl
 
 ## How to Run
 
-Download the project code from https://github.com/paddysolo/Classic-Arcade-Game- and click on the index.html file to run the application or run directly by visiting the link 
+Download the project code from https://github.com/paddysolo/Classic-Arcade-Game- and click on the index.html file to run the application 
 
 ## How to play the Game
 
